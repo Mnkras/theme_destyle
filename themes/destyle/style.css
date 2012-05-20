@@ -216,6 +216,10 @@ th {
 	z-index: 3;
 }
 
+.nobg {
+	background: transparent no-repeat !important;
+}
+
 #footer {
 	position: relative;
 	padding: 0 0 30px 0;
